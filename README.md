@@ -1,5 +1,12 @@
 ## Hi there 👋
-(Página em construção)
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tiagoalexoliveira/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:tiagoalexneiva@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Olá,+sou+o+Tiago!;Desenvolvedor+curioso+e+criativo;Sempre+pronto+a+aprender!)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagoleic02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
