@@ -7,6 +7,11 @@
   <img height="1" src="https://komarev.com/ghpvc/?username=tiagoleic02&color=blue"/>
 </div>
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiagoleic02&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoleic02&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=tiagoleic02&theme=radical)
+
+
 
 <!--
 **tiagoleic02/tiagoleic02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
