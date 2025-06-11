@@ -1,11 +1,11 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Olá,+sou+o+Tiago!+👋;Estudante+de+Engenharia+Informática+e+Computação;Tenho+22+anos+e+sou+de+Barcelos)](https://git.io/typing-svg)
 
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tiagoalexoliveira/)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:tiagoalexneiva@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Olá,+sou+o+Tiago!;Desenvolvedor+curioso+e+criativo;Sempre+pronto+a+aprender!)](https://git.io/typing-svg)
+
 
 
 <div align="center">
