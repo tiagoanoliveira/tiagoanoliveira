@@ -1,11 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Olá,+sou+o+Tiago!+👋;Estudante+de+Engenharia+Informática+e+Computação;Tenho+22+anos+e+sou+de+Barcelos)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Olá,+sou+o+Tiago!+👋;Estudante+de+Engenharia+Informática+e+Computação;Tenho+22+anos,+sou+natural+de+Barcelos)](https://git.io/typing-svg)
 
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tiagoalexoliveira/)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:tiagoalexneiva@gmail.com)
-
-
 
 
 <div align="center">
@@ -14,9 +12,9 @@
   <img height="1" src="https://komarev.com/ghpvc/?username=tiagoleic02&color=blue"/>
 </div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiagoleic02&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoleic02&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=tiagoleic02&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiagoleic02&show_icons=true&theme=moltack)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoleic02&layout=compact&theme=moltack)
+![GitHub Streak](https://streak-stats.demolab.com?user=tiagoleic02&theme=moltack)
 
 
 
