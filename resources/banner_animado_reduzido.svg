@@ -1,0 +1,103 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente para as ondas -->
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E6F0FA;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#2E5C9A;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#E6F0FA;stop-opacity:0.8" />
+    </linearGradient>
+
+    <!-- Gradiente para o fundo -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E6F0FA" />
+      <stop offset="100%" style="stop-color:#ffffff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="900" height="100" fill="url(#bgGradient)" />
+
+  <!-- Ondas animadas no fundo -->
+  <path d="M0,80 Q225,60 450,75 T900,80 L900,100 L0,100 Z" fill="url(#waveGradient)">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; -50,3; 0,0" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M0,85 Q225,65 450,80 T900,85 L900,100 L0,100 Z" fill="url(#waveGradient)" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 30,-2; 0,0" dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Texto principal -->
+  <text x="50" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2E5C9A">
+    Olá, sou o Tiago!
+    <animateTransform attributeName="transform" type="scale" 
+      values="1,1; 1.02,1.02; 1,1" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Emoji mão acenando -->
+  <text x="290" y="40" font-size="28">
+    👋
+    <animateTransform attributeName="transform" type="rotate" 
+      values="0 302 32; -15 302 32; 20 302 32; -10 302 32; 0 302 32" 
+      dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtítulo -->
+  <text x="50" y="65" font-family="Arial, sans-serif" font-size="14" fill="#22304A">
+    Engenharia Informática e Computação @ FEUP
+    <animate attributeName="opacity" values="0.7; 1; 0.7" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Símbolos de programação no lado direito -->
+
+  <!-- C -->
+  <circle cx="650" cy="25" r="15" fill="#2E5C9A" opacity="0.8">
+    <animate attributeName="cy" values="25; 20; 25" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="650" y="30" font-family="monospace" font-size="12" font-weight="bold" fill="white" text-anchor="middle">C</text>
+
+  <!-- C++ -->
+  <rect x="685" y="35" width="28" height="20" rx="5" fill="#22304A" opacity="0.8">
+    <animate attributeName="y" values="35; 30; 35" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="699" y="48" font-family="monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle">C++</text>
+
+  <!-- Python -->
+  <circle cx="730" cy="20" r="16" fill="#2E5C9A" opacity="0.8">
+    <animate attributeName="cy" values="20; 15; 20" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="730" y="25" font-family="monospace" font-size="11" font-weight="bold" fill="white" text-anchor="middle">PY</text>
+
+  <!-- JavaScript -->
+  <rect x="755" y="40" width="24" height="18" rx="4" fill="#22304A" opacity="0.8">
+    <animate attributeName="y" values="40; 35; 40" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="767" y="52" font-family="monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle">JS</text>
+
+  <!-- CSS -->
+  <circle cx="800" cy="28" r="14" fill="#2E5C9A" opacity="0.8">
+    <animate attributeName="cy" values="28; 23; 28" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="800" y="33" font-family="monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle">CSS</text>
+
+  <!-- HTML -->
+  <rect x="820" y="45" width="26" height="16" rx="3" fill="#22304A" opacity="0.8">
+    <animate attributeName="y" values="45; 40; 45" dur="2.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="2.7s" repeatCount="indefinite"/>
+  </rect>
+  <text x="833" y="55" font-family="monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">HTML</text>
+
+  <!-- Java -->
+  <circle cx="860" cy="22" r="15" fill="#2E5C9A" opacity="0.8">
+    <animate attributeName="cy" values="22; 17; 22" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5; 1; 0.5" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="860" y="27" font-family="monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle">JAVA</text>
+
+</svg>
