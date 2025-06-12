@@ -1,0 +1,120 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente para as ondas -->
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E6F0FA;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#2E5C9A;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#E6F0FA;stop-opacity:0.8" />
+    </linearGradient>
+    
+    <!-- Gradiente para o fundo -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E6F0FA" />
+      <stop offset="100%" style="stop-color:#ffffff" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fundo com cantos arredondados -->
+  <rect width="900" height="100" rx="15" ry="15" fill="url(#bgGradient)" />
+  
+  <!-- Ondas animadas no fundo (clipped para respeitar os cantos arredondados) -->
+  <defs>
+    <clipPath id="roundedClip">
+      <rect width="900" height="100" rx="15" ry="15" />
+    </clipPath>
+  </defs>
+  
+  <g clip-path="url(#roundedClip)">
+    <path d="M0,80 Q225,70 450,85 T900,85 L900,100 L0,100 Z" fill="url(#waveGradient)">
+      <animateTransform attributeName="transform" type="translate" 
+        values="0,0; -40,3; 0,0" dur="4s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M0,85 Q225,65 450,80 T900,85 L900,100 L0,100 Z" fill="url(#waveGradient)" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" 
+        values="0,0; 30,-2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Texto principal -->
+  <text x="50" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#2E5C9A">
+    Olá, sou o Tiago!
+    <animateTransform attributeName="transform" type="scale" 
+      values="1,1; 1.01,1.01; 1,1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Emoji mão acenando (ajustado para nova posição do texto) -->
+  <text x="290" y="40" font-size="26">
+    👋
+    <animateTransform attributeName="transform" type="rotate" 
+      values="0 302 37; -12 302 37; 15 302 37; -8 302 37; 0 302 37" 
+      dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Subtítulo -->
+  <text x="50" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#22304A">
+    Engenharia Informática e Computação @ FEUP
+    <animate attributeName="opacity" values="0.8; 1; 0.8" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Símbolos de programação com efeito slide rotativo -->
+  
+  <!-- Grupo 1: Aparece nos primeiros 3.5 segundos -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;1;0;0;0;0" dur="7s" repeatCount="indefinite"/>
+    
+    <!-- C -->
+    <circle cx="620" cy="60" r="14" fill="#2E5C9A" rx="3" ry="3">
+      <animate attributeName="cy" values="60; 55; 60" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="620" y="62" font-family="Segoe UI, monospace" font-size="11" font-weight="bold" fill="white" text-anchor="middle">C</text>
+    
+    <!-- C++ -->
+    <rect x="650" y="30" width="35" height="20" rx="4" ry="4" fill="#22304A">
+      <animate attributeName="y" values="30; 25; 30" dur="2.3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="668" y="40" font-family="Segoe UI, monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">C++</text>
+    
+    <!-- Python -->
+    <circle cx="720" cy="60" r="15" fill="#2E5C9A">
+      <animate attributeName="cy" values="60; 55; 60" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="720" y="62" font-family="Segoe UI, monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle">PY</text>
+    
+    <!-- JavaScript -->
+    <rect x="750" y="30" width="35" height="20" rx="4" ry="4" fill="#22304A">
+      <animate attributeName="y" values="30; 25; 30" dur="2.3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="768" y="40" font-family="Segoe UI, monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">JS</text>
+  </g>
+  
+  <!-- Grupo 2: Aparece nos últimos 3.5 segundos -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0;1;1;1;0" dur="7s" repeatCount="indefinite"/>
+    
+    <!-- CSS -->
+    <circle cx="620" cy="60" r="14" fill="#2E5C9A">
+      <animate attributeName="cy" values="60; 55; 60" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="620" y="62" font-family="Segoe UI, monospace" font-size="10" font-weight="bold" fill="white" text-anchor="middle">CSS</text>
+    
+    <!-- HTML -->
+    <rect x="650" y="30" width="35" height="20" rx="4" ry="4" fill="#22304A">
+      <animate attributeName="y" values="30; 25; 30" dur="2.3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="668" y="40" font-family="Segoe UI, monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">HTML</text>
+    
+    <!-- Java -->
+    <circle cx="720" cy="60" r="15" fill="#2E5C9A">
+      <animate attributeName="cy" values="60; 55; 60" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="720" y="62" font-family="Segoe UI, monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">JAVA</text>
+    
+    <!-- PHP -->
+    <rect x="750" y="30" width="35" height="20" rx="4" ry="4" fill="#22304A">
+      <animate attributeName="y" values="30; 25; 30" dur="2.3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="767" y="40" font-family="Segoe UI, monospace" font-size="9" font-weight="bold" fill="white" text-anchor="middle">PHP</text>
+  </g>
+  
+</svg>
