@@ -18,9 +18,9 @@
 
 <h2 align="left" style="color:#2E5C9A;">Some FEUP's repositories:</h2>
 
-![LCOM](https://github-readme-stats.vercel.app/api/pin?username=tiagoleic02&repo=LCOM&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)
-![LDTS](https://github-readme-stats.vercel.app/api/pin?username=tiagoleic02&repo=LDTS&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)
-![Programação](https://github-readme-stats.vercel.app/api/pin?username=tiagoleic02&repo=programacao&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)
+[![LCOM](https://github-readme-stats.vercel.app/api/pin?username=tiagoleic02&repo=LCOM&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LCOM)
+[![LDTS](https://github-readme-stats.vercel.app/api/pin?username=tiagoleic02&repo=LDTS&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LDTS)
+[![Programação](https://github-readme-stats.vercel.app/api/pin?username=tiagoleic02&repo=programacao&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/programacao)
 
 <h2 align="left" style="color:#2E5C9A;">📫 Contacts:</h2>
 
