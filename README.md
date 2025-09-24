@@ -18,7 +18,7 @@
 
 <h2 align="left" style="color:#2E5C9A;">Some FEUP's repositories:</h2>
 
-<h4 align="left" style="color:#2E5C9A;"> [View more in my organisation:](https://github.com/FEUP-tiago-repositories) </h4>
+[View more in my organisation:](https://github.com/FEUP-tiago-repositories)
 
 [![LCOM](https://github-readme-stats.vercel.app/api/pin?username=tiagoanoliveira&repo=LCOM&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LCOM)
 [![LDTS](https://github-readme-stats.vercel.app/api/pin?username=tiagoanoliveira&repo=LDTS&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LDTS)
