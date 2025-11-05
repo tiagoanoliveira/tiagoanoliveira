@@ -11,10 +11,10 @@
 </p>
 
 <!-- Linha de baixo: streaks centrado -->
-<!-- <p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoleic02&layout=compact&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiagoleic02" height="180"> 
-</p>-->
+<p align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoanoliveira&layout=compact&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA" height="180">
+ <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiagoleic02" height="180"> -->
+</p>
 
 <h2 align="left" style="color:#2E5C9A;">Some FEUP's repositories:</h2>
 
