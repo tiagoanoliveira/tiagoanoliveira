@@ -27,4 +27,4 @@
 <h2 align="left" style="color:#2E5C9A;">📫 Contacts:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tiagoalexoliveira/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:tiagoalexneiva@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:geral@tiagoanoliveira.pt)
