@@ -5,16 +5,13 @@ on:
   - cron: 0 */4 * * *  # Change to make the action run more or less frequently. Please be aware that GitHub's free plan only has 2000 CI minutes.
 jobs:
   update-cards:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    name: Update cards
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Ensure output folder
-        run: mkdir -p profile
+    steps:
+      - uses: actions/checkout@v6
 
       - name: Generate stats
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,13 +26,13 @@ jobs:
         with:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&langs_count=12&hide_border=true&role=owner,collaborator&theme=default'
-          path: profile/top-langs-light.svg
-          token: ${{ secrets.PAT }}
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN  }}
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
