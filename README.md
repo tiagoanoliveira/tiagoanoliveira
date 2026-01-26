@@ -6,8 +6,8 @@
 
 <!-- Linha de cima: estatísticas e linguagens lado a lado, centrados -->
 <p align="center" width="100%" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagoanoliveira&show_icons=true&hide=contribs&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA"  width="49%" height="180">
-    <img src="https://streak-stats.demolab.com?user=tiagoanoliveira&background=E6F0FA&border=2E5C9A&stroke=2E5C9A&ring=FFA500&fire=FFA500&currStreakNum=2E5C9A&sideNums=22304A&currStreakLabel=22304A&sideLabels=2E5C9A&dates=22304A"  width="49%" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagoanoliveira&show_icons=true&hide_border=true&count_private=true"  width="49%" height="180">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tiagoanoliveira&mode=weekly"  width="49%" height="180">
 </p>
 
 <!-- Linha de baixo: streaks centrado -->
