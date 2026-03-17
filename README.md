@@ -7,12 +7,12 @@
 <!-- Linha de cima: estatísticas e linguagens lado a lado, centrados -->
 <p align="center" width="100%" height="180">
   <img src="https://github-readme-stats.vercel.app/api?username=tiagoanoliveira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=owner,collaborator"  width="49%" height="180">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tiagoanoliveira&mode=weekly"  width="49%" height="180">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tiagoanoliveira&mode=weekly"  width="49%" height="180">
 </p>
 
 <!-- Linha de baixo: streaks centrado -->
 <p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoanoliveira&layout=compact&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoanoliveira&layout=compact&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA">
 </p>
 
 
