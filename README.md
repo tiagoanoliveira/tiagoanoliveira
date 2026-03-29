@@ -20,10 +20,10 @@
 
 [View more in my organisation:](https://github.com/FEUP-tiago-repositories)
 
-[![LCOM](https://github-readme-stats.vercel.app/api/pin?username=tiagoanoliveira&repo=LCOM&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LCOM)
-[![LDTS](https://github-readme-stats.vercel.app/api/pin?username=tiagoanoliveira&repo=LDTS&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LDTS)
-[![Programação](https://github-readme-stats.vercel.app/api/pin?username=tiagoanoliveira&repo=programacao&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoanoliveira/programacao)
-[![Programação](https://github-readme-stats.vercel.app/api/pin?username=tiagoanoliveira&repo=lbaw&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoanoliveira/lbaw)
+[![LCOM](https://github-readme-stats.vercel.app/api/pin?username=FEUP-tiago-repositories&repo=LCOM&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LCOM)
+[![LDTS](https://github-readme-stats.vercel.app/api/pin?username=FEUP-tiago-repositories&repo=LDTS&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoleic02/LDTS)
+[![Programação](https://github-readme-stats.vercel.app/api/pin?username=FEUP-tiago-repositories&repo=programacao&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoanoliveira/programacao)
+[![Programação](https://github-readme-stats.vercel.app/api/pin?username=FEUP-tiago-repositories&repo=lbaw&title_color=2E5C9A&icon_color=2E5C9A&text_color=22304A&bg_color=E6F0FA)](https://github.com/tiagoanoliveira/lbaw)
 
 <h2 align="left" style="color:#2E5C9A;">📫 Contacts:</h2>
 
