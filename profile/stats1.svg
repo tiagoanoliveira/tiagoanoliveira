@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Tiago Oliveira's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1029, Total PRs: 40, Total Issues: 15, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1033, Total PRs: 40, Total Issues: 15, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 196.09613795904897;
+        stroke-dashoffset: 196.03930342874062;
       }
     }
   
